@@ -24,7 +24,7 @@ This is a **super basic** app I whipped up in a few hours to search your local i
 
 ### See it in action
 Check out this low-budget demo:
-[![Watch the video](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/640px-A_black_image.jpg)](media/1.mp4)
+[![Watch the video](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/640px-A_black_image.jpg)](https://github.com/Rohith04MVK/image-search-with-words/raw/main/media/1.mp4)
 
 ### How to use it (it's pretty straightforward)
 
@@ -47,18 +47,17 @@ poetry shell
 
 ```sh
 streamlit run app.py
+>>> Local URL: http://localhost:8501
 ```
 
-That should give a link
-
-5. Upload some images and hit search and see what appears
+5. Upload some images and hit search and see what appears!
 
 **Bonus:**
 
-- No internet connection required! Your images stay private on your device. (*inital run requries internet :3)
+- No internet connection required! Your images stay private on your device. (*inital run does require the internet :3)
 
 ### Wanna help?
-Found a bug? Fixed something? Cool. Pull requests welcome
+Found a bug? Fixed something? Cool. Pull requests welcome.
 
 ### Legal stuff
 MIT [license](LICENSE). Do whatever, just don't blame me if it breaks.
