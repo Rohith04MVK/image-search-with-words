@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "image-search-with-words"
+version = "0.1.0"
+description = ""
+authors = ["Rohith04MVK <rohithkbobby04@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+streamlit = "^1.36.0"
+transformers = "^4.41.2"
+torch = {version = "^2.3.1+cpu", source = "pytorch_cpu"}
+chromadb = "^0.5.3"
+protobuf = "3.20"
+sentence-transformers = "^3.0.1"
+
+
+[[tool.poetry.source]]
+name = "pytorch_cpu"
+url = "https://download.pytorch.org/whl/cpu"
+priority = "explicit"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
