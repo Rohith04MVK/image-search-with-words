@@ -24,7 +24,9 @@ This is a **super basic** app I whipped up in a few hours to search your local i
 
 ### See it in action
 Check out this low-budget demo:
-[![Watch the video](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/640px-A_black_image.jpg)](https://github.com/Rohith04MVK/image-search-with-words/raw/main/media/1.mp4)
+
+[![Watch the video](https://www.shutterstock.com/shutterstock/videos/1102576935/thumb/2.jpg?ip=x480)](/media/1.mp4)
+
 
 ### How to use it (it's pretty straightforward)
 
